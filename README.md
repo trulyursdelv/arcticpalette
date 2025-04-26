@@ -1,6 +1,6 @@
 ## ArcticPalette :snowman:
 
-A straightforward, lightweight version of clap, best for building a minimal and small CLI-like programs. [Available on Crates.io](https://crates.io/creates/arcticpalette)
+A straightforward, lightweight version of clap, best for building a minimal and small CLI-like programs. [Available on Crates.io](https://crates.io/crates/arcticpalette)
 
 ```rust
 use arcticpalette::{ArcticPalette, Command}
