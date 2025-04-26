@@ -1,0 +1,8 @@
+[package]
+name = "arcticpalette"
+version = "0.1.0"
+edition = "2021"
+authors = ["trulyursdelv"]
+description = "A straightforward, lightweight version of clap."
+license = "CC0-1.0"
+repository = "https://github.com/trulyursdelv/arcticpalette"
