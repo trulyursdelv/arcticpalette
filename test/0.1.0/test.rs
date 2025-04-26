@@ -1,7 +1,7 @@
 // WARNING:
 // This file is not implemented yet.
 
-use arcticpalette::{ArcticPalette, Command}
+use arcticpalette::ArcticPalette;
 
 #[cfg(test)]
 mod tests {
